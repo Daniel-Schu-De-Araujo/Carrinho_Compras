@@ -7,7 +7,7 @@ Depois de darmos uma passadinha pelo site da Shópi, vimos alguns itens interess
 ### Objetivo:  
 
 Criar uma lista composta por vários **dicionários (dict)**. Cada dicionário deve representar um item do carrinho de compras.  
---------------
+-------------------------------------------------------------------------
 ## **Requisitos:**  
 
 1. Cada dicionário deve conter, no mínimo, as seguintes chaves:  
