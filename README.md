@@ -4,7 +4,7 @@ Simulação manual de um carrinho de compras usando técnicas de manipulação d
 ## Carrinho de Compras 🛒
 Depois de darmos uma passadinha pelo site da Shópi, vimos alguns itens interessantes.  
 
-### Objetivo:
+### Objetivo:  
 Criar uma lista composta por vários **dicionários (dict)**. Cada dicionário deve representar um item do carrinho de compras.  
 --------------
 ## **Requisitos:**  
